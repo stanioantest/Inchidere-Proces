@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Inchidere_Proces.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="oraSchimbul1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="oraSchimbul2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">14</Value>
+    </Setting>
+    <Setting Name="oraSchimbul3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="minutSchimbul123" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">55</Value>
+    </Setting>
+    <Setting Name="minutSchimbul2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">55</Value>
+    </Setting>
+    <Setting Name="minutSchimbul3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">55</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
